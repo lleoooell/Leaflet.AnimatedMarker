@@ -1,0 +1,22 @@
+{
+  "name": "animatedmarkers",
+  "version": "1.0.0",
+  "description": "This is a Leaflet plugin for animating a marker along a polyline. Check out the [demo](http://openplans.github.com/Leaflet.AnimatedMarker/). Feedback appreciated!",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lleoooell@github.com/lleoooell/Leaflet.AnimatedMarker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lleoooell/Leaflet.AnimatedMarker/issues"
+  },
+  "homepage": "https://github.com/lleoooell/Leaflet.AnimatedMarker#readme"
+}
